@@ -21,3 +21,22 @@ The main aim of the project is to develop software for online movie ticket booki
 [![C/C++ CI](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/c-cpp.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml)
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Images`         | Screen-shots of the working code
+##  Features
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Login to System | |
+|F_02|Select Movie that is Avaliable |
+|F_03| Purchase a Ticket |
+|F_04| Summary of Ticket |
+|F_05| Cancel a Ticket |
+|F_06| Logout |
