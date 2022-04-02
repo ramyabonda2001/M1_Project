@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-![Banner](https://github.com/ramyabonda2001/M1_Project-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/ramyabonda2001/M1_Project/blob/main/1_Requirements/banner.png)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
