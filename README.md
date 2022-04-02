@@ -8,7 +8,7 @@ The main aim of the project is to develop software for online movie ticket booki
 
 ## SDLC Activity Based Learning
 
-![CodeQuality_Grade](https://www.code-inspector.com/project/27637/status/svg) 
+
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5c1741b8da1425daf255b889f4c1ca3)](https://www.codacy.com/gh/ramyabonda2001/M1_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramyabonda2001/M1_Project&amp;utm_campaign=Badge_Grade) 
 
@@ -17,8 +17,6 @@ The main aim of the project is to develop software for online movie ticket booki
 [![cppcheck-action](https://github.com/ramyabonda2001/M1_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/cppcheck.yml)
 
 [![Unit testing](https://github.com/ramyabonda2001/M1_Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/unit-test.yml)
-
-[![C/C++ CI](https://github.com/ramyabonda2001/M1_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/c-cpp.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/ramyabonda2001/M1_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/gitinspector.yml)
 
