@@ -1,56 +1,21 @@
-# SDLC Activity Based Learning
+# Stepin_Movie_Ticket_Booking_System
 
-![Banner](https://github.com/ramyabonda2001/M1_Project/blob/main/1_Requirements/banner.jpeg)
+## Introduction
 
-<!--
-Visit [Pages for Report -optional](using github.io option)
+The main aim of the project is to develop software for online movie ticket booking system. This project has been developed to carry out process easily and quickly.The simple Movie Ticket Booking System is based on the concept of booking movie tickets.
 
+## SDLC Activity Based Learning
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
- To be added | To be added | To be added | To be added
+![CodeQuality_Grade](https://www.code-inspector.com/project/27637/status/svg) 
 
--->
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5c1741b8da1425daf255b889f4c1ca3)](https://www.codacy.com/gh/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TanujaPatgar/Stepin_Movie_Ticket_Booking_System&amp;utm_campaign=Badge_Grade) 
 
-![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/ramyabonda2001/M1_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramyabpnda2001/M1_Project&amp;utm_campaign=Badge_Grade)
-[![cppcheck-action](https://github.com/ramyabonda2001/M1_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/cppcheck.yml)
-[![C/C++ CI](https://github.com/ramyabonda2001/M1_Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/c-build.yml)
-[![Unit testing](https://github.com/ramyabonda2001/M1_Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/unit-test.yml)
-[![Contribution Check - Git Inspector](https://github.com/ramyabonda2001/M1_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ramyabonda2001/M1_Project/actions/workflows/gitinspector.yml)
+[![CI](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/main.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/main.yml)
 
-## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`   | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
-`5_Images`         | Screen-shots of the working code
-##  Features
-| Feature Id | Feature |
-| -----------|---------|
-|F_01| Login to System | |
-|F_02|Select Movie that is Avaliable |
-|F_03| Purchase a Ticket |
-|F_04| Summary of Ticket |
-|F_05| Cancel a Ticket |
-|F_06| Logout |
+[![cppcheck-action](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/cppcheck.yml)
 
-<!--
+[![Unit testing](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/unit-test.yml)
 
-## Contributors List and Summary
+[![C/C++ CI](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/c-cpp.yml)
 
-PS Number. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`99006110` | Goutami D Honagannavar  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   -->
-<!--
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
-
-
+[![Contribution Check - Git Inspector](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_Movie_Ticket_Booking_System/actions/workflows/gitinspector.yml)
