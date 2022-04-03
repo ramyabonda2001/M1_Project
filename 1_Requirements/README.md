@@ -1,4 +1,4 @@
-# Stepin_Movie_Ticket_Booking_System
+# M1_Project Movie Ticket Booking System
 
 ## Introduction
 
